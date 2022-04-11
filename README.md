@@ -34,9 +34,21 @@ If you want to re-run the creation procedure, you can download the [UniMorph dat
 
 If you want to make use of the code in this repository or the resulting data, please cite the following paper:
 
+```
 @misc{https://doi.org/10.48550/arxiv.2203.10010,
   url = {https://arxiv.org/abs/2203.10010},
   author = {Weissweiler, Leonie and Hofmann, Valentin and Sabet, Masoud Jalili and Schütze, Hinrich},
   title = {CaMEL: Case Marker Extraction without Labels}, 
   year = {2022},
 }
+```
+
+## 🧑🏻 Author Contact
+
+For questions and inquiries about this code, feel free to contact [me](https://www.cis.lmu.de/~weissweiler/)
+
+## 🔑 Licence
+
+Copyright (C) 2022, Leonie Weissweiler
+
+A full copy of the licence can be found in LICENCE
